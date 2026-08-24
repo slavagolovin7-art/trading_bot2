@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+pandas==2.2.0
+numpy==1.26.3
+ta==0.10.2
+yfinance==0.2.33
+scikit-learn==1.4.0
